@@ -1,12 +1,13 @@
 ---
-name: Tube 48
+name: Vase Cylindre
 garment_type: top
 price:
 sku:
-description: Tube en porcelaine émailé
+description: 'Tube en porcelaine émaillé de diamètre et de hauteur 16cm, 32cm ou 48cm'
 sizes:
-  - XL
-  -
+  - '16'
+  - '32'
+  - '48'
 styles:
   - name:
     color:
