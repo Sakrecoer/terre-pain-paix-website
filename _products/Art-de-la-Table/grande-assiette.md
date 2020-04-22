@@ -3,7 +3,7 @@ name: Grande Assiette
 garment_type: top
 price: '30'
 sku:
-description: Longue assiette en porcelaine
+description: Grande assiette en porcelaine
 sizes:
   -
 styles:
