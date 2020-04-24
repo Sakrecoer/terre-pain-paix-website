@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Fur
+title: Terre Pain Paix
 url: "http://turquoise-rook.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -10,12 +10,12 @@ snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5O
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Ceramique française par artistes, plasticiens et designers en quête de liberté.
 author:
-  name: fur
-  email: fur@example.com
+  name: Terre Pain Paix
+  email: terrepainpaix@gmail.com
   twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+  phone: "+33 633379825"
 social:
   name: Fur Template
   links:
@@ -72,8 +72,10 @@ exclude:
 # CloudCannon
 
 garment_types:
-  - hat
-  - top
+  - Marbled blue white
+  - Rose
+  - Blue Macro cristallised
+  - Flavor of the week
 
 social_icons:
   - Email
