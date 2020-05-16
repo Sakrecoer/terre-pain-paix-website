@@ -34,7 +34,7 @@ author:
 
   twitter: fur # twitter username without the @ symbol
 
-  phone: "+33 633379825"
+  phone: "+33 6 33379825"
 
 social:
 
@@ -71,9 +71,22 @@ collections:
     output: true
 
     _icon: shopping_cart
+    
+  plants:
+  
+    _hide_content: true
 
+    output: true
 
+    _icon: shopping_cart
 
+  cats:
+  
+    _hide_content: true
+
+    output: true
+
+    _icon: shopping_cart
 
 permalink: pretty
 
@@ -96,6 +109,18 @@ defaults:
 
   -
 
+   scope:
+
+      path: ""
+
+      type: "products"
+
+    values:
+
+      layout: "cat-product"
+
+  -
+  
     scope:
 
       path: ""
