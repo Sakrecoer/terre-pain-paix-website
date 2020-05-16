@@ -107,17 +107,6 @@ defaults:
 
       layout: "product"
 
-  -
-
-   scope:
-
-      path: ""
-
-      type: "products"
-
-    values:
-
-      layout: "cat-product"
 
   -
   
