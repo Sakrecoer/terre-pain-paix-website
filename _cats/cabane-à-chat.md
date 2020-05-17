@@ -1,5 +1,5 @@
 ---
-name: Cabane à chat
+name: Cabane
 garment_type:
 price: '200'
 sku:
