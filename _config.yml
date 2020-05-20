@@ -87,6 +87,14 @@ collections:
     output: true
 
     _icon: shopping_cart
+    
+    art:
+  
+    _hide_content: true
+
+    output: true
+
+    _icon: shopping_cart
 
 permalink: pretty
 
