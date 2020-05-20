@@ -4,12 +4,12 @@ garment_type: top
 price:
 sku:
 description:
-sizes:
-  - XS
-  - Small
-  - Medium
-  - Large
-  - XL
+glaze:
+  - blanc
+  - noir
+  - Bulles
+  - Rouge
+  - Vert
 styles:
   - name:
     color:
