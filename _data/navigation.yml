@@ -10,6 +10,10 @@
   link: /contact/
   new_window: false
   highlight: false
+  - name: Plantes
+  link: /plants/
+  new_window: false
+  highlight: false
 - name: Pour nos amis les bêtes
   link: /cats/
   new_window: false
