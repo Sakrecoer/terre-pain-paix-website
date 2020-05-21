@@ -64,15 +64,7 @@ collections:
 
     _icon: account_circle
 
-  products:
-
-    _hide_content: true
-
-    output: true
-
-    _icon: shopping_cart
-    
-  plants:
+  art:
   
     _hide_content: true
 
@@ -87,8 +79,9 @@ collections:
     output: true
 
     _icon: shopping_cart
+  
     
-  art:
+  plants:
   
     _hide_content: true
 
@@ -96,6 +89,14 @@ collections:
 
     _icon: shopping_cart
 
+  products:
+
+    _hide_content: true
+
+    output: true
+
+    _icon: shopping_cart
+    
 permalink: pretty
 
 
